@@ -1,0 +1,281 @@
+{
+  "chart": {
+    "title": "COVID-19 vaccine doses administered by manufacturer",
+    "subtitle": "All doses, including boosters, are counted individually.",
+    "citation": "Official data collated by Our World in Data (2024)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/covid-vaccine-doses-by-manufacturer?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "European Union (27)"
+    ]
+  },
+  "columns": {
+    "COVID-19 doses (cumulative) - Manufacturer Pfizer/BioNTech": {
+      "titleShort": "Pfizer/BioNTech",
+      "titleLong": "Pfizer/BioNTech",
+      "descriptionShort": "Total number of Pfizer/BioNTech COVID-19 vaccination doses administered.",
+      "descriptionKey": [
+        "During the COVID-19 pandemic, there were various manufacturers providing vaccines. This indicator counts those doses by Pfizer/BioNTech.",
+        "Differences in vaccine availability, distribution agreements, and production capacity mean that some manufacturers' vaccines may be more widely used in specific regions.",
+        "Data on doses administered by manufacturer may be incomplete due to varied reporting standards, data sharing agreements, or privacy considerations."
+      ],
+      "unit": "doses",
+      "timespan": "",
+      "type": "Integer",
+      "owidVariableId": 985322,
+      "shortName": "total_vaccinations__vaccine_pfizer_biontech",
+      "lastUpdated": "2024-08-23",
+      "citationShort": "Official data collated by Our World in Data (2024) – with major processing by Our World in Data",
+      "citationLong": "Official data collated by Our World in Data (2024) – with major processing by Our World in Data. “Pfizer/BioNTech” [dataset]. Official data collated by Our World in Data, “COVID-19, vaccinations (broken down by manufacturer)” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/985322.metadata.json"
+    },
+    "COVID-19 doses (cumulative) - Manufacturer Moderna": {
+      "titleShort": "Moderna",
+      "titleLong": "Moderna",
+      "descriptionShort": "Total number of Moderna COVID-19 vaccination doses administered.",
+      "descriptionKey": [
+        "During the COVID-19 pandemic, there were various manufacturers providing vaccines. This indicator counts those doses by Moderna.",
+        "Differences in vaccine availability, distribution agreements, and production capacity mean that some manufacturers' vaccines may be more widely used in specific regions.",
+        "Data on doses administered by manufacturer may be incomplete due to varied reporting standards, data sharing agreements, or privacy considerations."
+      ],
+      "unit": "doses",
+      "timespan": "",
+      "type": "Integer",
+      "owidVariableId": 985305,
+      "shortName": "total_vaccinations__vaccine_moderna",
+      "lastUpdated": "2024-08-23",
+      "citationShort": "Official data collated by Our World in Data (2024) – with major processing by Our World in Data",
+      "citationLong": "Official data collated by Our World in Data (2024) – with major processing by Our World in Data. “Moderna” [dataset]. Official data collated by Our World in Data, “COVID-19, vaccinations (broken down by manufacturer)” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/985305.metadata.json"
+    },
+    "COVID-19 doses (cumulative) - Manufacturer Oxford/AstraZeneca": {
+      "titleShort": "Oxford/AstraZeneca",
+      "titleLong": "Oxford/AstraZeneca",
+      "descriptionShort": "Total number of Oxford/AstraZeneca COVID-19 vaccination doses administered.",
+      "descriptionKey": [
+        "During the COVID-19 pandemic, there were various manufacturers providing vaccines. This indicator counts those doses by Oxford/AstraZeneca.",
+        "Differences in vaccine availability, distribution agreements, and production capacity mean that some manufacturers' vaccines may be more widely used in specific regions.",
+        "Data on doses administered by manufacturer may be incomplete due to varied reporting standards, data sharing agreements, or privacy considerations."
+      ],
+      "unit": "doses",
+      "timespan": "",
+      "type": "Integer",
+      "owidVariableId": 985317,
+      "shortName": "total_vaccinations__vaccine_oxford_astrazeneca",
+      "lastUpdated": "2024-08-23",
+      "citationShort": "Official data collated by Our World in Data (2024) – with major processing by Our World in Data",
+      "citationLong": "Official data collated by Our World in Data (2024) – with major processing by Our World in Data. “Oxford/AstraZeneca” [dataset]. Official data collated by Our World in Data, “COVID-19, vaccinations (broken down by manufacturer)” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/985317.metadata.json"
+    },
+    "COVID-19 doses (cumulative) - Manufacturer Johnson&Johnson": {
+      "titleShort": "Johnson&Johnson",
+      "titleLong": "Johnson&Johnson",
+      "descriptionShort": "Total number of Johnson&Johnson COVID-19 vaccination doses administered.",
+      "descriptionKey": [
+        "During the COVID-19 pandemic, there were various manufacturers providing vaccines. This indicator counts those doses by Johnson&Johnson.",
+        "Differences in vaccine availability, distribution agreements, and production capacity mean that some manufacturers' vaccines may be more widely used in specific regions.",
+        "Data on doses administered by manufacturer may be incomplete due to varied reporting standards, data sharing agreements, or privacy considerations."
+      ],
+      "unit": "doses",
+      "timespan": "",
+      "type": "Integer",
+      "owidVariableId": 985298,
+      "shortName": "total_vaccinations__vaccine_johnson_and_johnson",
+      "lastUpdated": "2024-08-23",
+      "citationShort": "Official data collated by Our World in Data (2024) – with major processing by Our World in Data",
+      "citationLong": "Official data collated by Our World in Data (2024) – with major processing by Our World in Data. “Johnson&Johnson” [dataset]. Official data collated by Our World in Data, “COVID-19, vaccinations (broken down by manufacturer)” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/985298.metadata.json"
+    },
+    "COVID-19 doses (cumulative) - Manufacturer Sputnik V": {
+      "titleShort": "Sputnik V",
+      "titleLong": "Sputnik V",
+      "descriptionShort": "Total number of Sputnik V COVID-19 vaccination doses administered.",
+      "descriptionKey": [
+        "During the COVID-19 pandemic, there were various manufacturers providing vaccines. This indicator counts those doses by Sputnik V.",
+        "Differences in vaccine availability, distribution agreements, and production capacity mean that some manufacturers' vaccines may be more widely used in specific regions.",
+        "Data on doses administered by manufacturer may be incomplete due to varied reporting standards, data sharing agreements, or privacy considerations."
+      ],
+      "unit": "doses",
+      "timespan": "",
+      "type": "Integer",
+      "owidVariableId": 985342,
+      "shortName": "total_vaccinations__vaccine_sputnik_v",
+      "lastUpdated": "2024-08-23",
+      "citationShort": "Official data collated by Our World in Data (2024) – with major processing by Our World in Data",
+      "citationLong": "Official data collated by Our World in Data (2024) – with major processing by Our World in Data. “Sputnik V” [dataset]. Official data collated by Our World in Data, “COVID-19, vaccinations (broken down by manufacturer)” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/985342.metadata.json"
+    },
+    "COVID-19 doses (cumulative) - Manufacturer Sinovac": {
+      "titleShort": "Sinovac",
+      "titleLong": "Sinovac",
+      "descriptionShort": "Total number of Sinovac COVID-19 vaccination doses administered.",
+      "descriptionKey": [
+        "During the COVID-19 pandemic, there were various manufacturers providing vaccines. This indicator counts those doses by Sinovac.",
+        "Differences in vaccine availability, distribution agreements, and production capacity mean that some manufacturers' vaccines may be more widely used in specific regions.",
+        "Data on doses administered by manufacturer may be incomplete due to varied reporting standards, data sharing agreements, or privacy considerations."
+      ],
+      "unit": "doses",
+      "timespan": "",
+      "type": "Integer",
+      "owidVariableId": 985336,
+      "shortName": "total_vaccinations__vaccine_sinovac",
+      "lastUpdated": "2024-08-23",
+      "citationShort": "Official data collated by Our World in Data (2024) – with major processing by Our World in Data",
+      "citationLong": "Official data collated by Our World in Data (2024) – with major processing by Our World in Data. “Sinovac” [dataset]. Official data collated by Our World in Data, “COVID-19, vaccinations (broken down by manufacturer)” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/985336.metadata.json"
+    },
+    "COVID-19 doses (cumulative) - Manufacturer Sinopharm/Beijing": {
+      "titleShort": "Sinopharm/Beijing",
+      "titleLong": "Sinopharm/Beijing",
+      "descriptionShort": "Total number of Sinopharm/Beijing COVID-19 vaccination doses administered.",
+      "descriptionKey": [
+        "During the COVID-19 pandemic, there were various manufacturers providing vaccines. This indicator counts those doses by Sinopharm/Beijing.",
+        "Differences in vaccine availability, distribution agreements, and production capacity mean that some manufacturers' vaccines may be more widely used in specific regions.",
+        "Data on doses administered by manufacturer may be incomplete due to varied reporting standards, data sharing agreements, or privacy considerations."
+      ],
+      "unit": "doses",
+      "timespan": "",
+      "type": "Integer",
+      "owidVariableId": 985330,
+      "shortName": "total_vaccinations__vaccine_sinopharm_beijing",
+      "lastUpdated": "2024-08-23",
+      "citationShort": "Official data collated by Our World in Data (2024) – with major processing by Our World in Data",
+      "citationLong": "Official data collated by Our World in Data (2024) – with major processing by Our World in Data. “Sinopharm/Beijing” [dataset]. Official data collated by Our World in Data, “COVID-19, vaccinations (broken down by manufacturer)” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/985330.metadata.json"
+    },
+    "COVID-19 doses (cumulative) - Manufacturer CanSino": {
+      "titleShort": "CanSino",
+      "titleLong": "CanSino",
+      "descriptionShort": "Total number of CanSino COVID-19 vaccination doses administered.",
+      "descriptionKey": [
+        "During the COVID-19 pandemic, there were various manufacturers providing vaccines. This indicator counts those doses by CanSino.",
+        "Differences in vaccine availability, distribution agreements, and production capacity mean that some manufacturers' vaccines may be more widely used in specific regions.",
+        "Data on doses administered by manufacturer may be incomplete due to varied reporting standards, data sharing agreements, or privacy considerations."
+      ],
+      "unit": "doses",
+      "timespan": "",
+      "type": "Integer",
+      "owidVariableId": 985294,
+      "shortName": "total_vaccinations__vaccine_cansino",
+      "lastUpdated": "2024-08-23",
+      "citationShort": "Official data collated by Our World in Data (2024) – with major processing by Our World in Data",
+      "citationLong": "Official data collated by Our World in Data (2024) – with major processing by Our World in Data. “CanSino” [dataset]. Official data collated by Our World in Data, “COVID-19, vaccinations (broken down by manufacturer)” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/985294.metadata.json"
+    },
+    "COVID-19 doses (cumulative) - Manufacturer Novavax": {
+      "titleShort": "Novavax",
+      "titleLong": "Novavax",
+      "descriptionShort": "Total number of Novavax COVID-19 vaccination doses administered.",
+      "descriptionKey": [
+        "During the COVID-19 pandemic, there were various manufacturers providing vaccines. This indicator counts those doses by Novavax.",
+        "Differences in vaccine availability, distribution agreements, and production capacity mean that some manufacturers' vaccines may be more widely used in specific regions.",
+        "Data on doses administered by manufacturer may be incomplete due to varied reporting standards, data sharing agreements, or privacy considerations."
+      ],
+      "unit": "doses",
+      "timespan": "",
+      "type": "Integer",
+      "owidVariableId": 985313,
+      "shortName": "total_vaccinations__vaccine_novavax",
+      "lastUpdated": "2024-08-23",
+      "citationShort": "Official data collated by Our World in Data (2024) – with major processing by Our World in Data",
+      "citationLong": "Official data collated by Our World in Data (2024) – with major processing by Our World in Data. “Novavax” [dataset]. Official data collated by Our World in Data, “COVID-19, vaccinations (broken down by manufacturer)” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/985313.metadata.json"
+    },
+    "COVID-19 doses (cumulative) - Manufacturer Covaxin": {
+      "titleShort": "Covaxin",
+      "titleLong": "Covaxin",
+      "descriptionShort": "Total number of Covaxin COVID-19 vaccination doses administered.",
+      "descriptionKey": [
+        "During the COVID-19 pandemic, there were various manufacturers providing vaccines. This indicator counts those doses by Covaxin.",
+        "Differences in vaccine availability, distribution agreements, and production capacity mean that some manufacturers' vaccines may be more widely used in specific regions.",
+        "Data on doses administered by manufacturer may be incomplete due to varied reporting standards, data sharing agreements, or privacy considerations."
+      ],
+      "unit": "doses",
+      "timespan": "",
+      "type": "Integer",
+      "owidVariableId": 985296,
+      "shortName": "total_vaccinations__vaccine_covaxin",
+      "lastUpdated": "2024-08-23",
+      "citationShort": "Official data collated by Our World in Data (2024) – with major processing by Our World in Data",
+      "citationLong": "Official data collated by Our World in Data (2024) – with major processing by Our World in Data. “Covaxin” [dataset]. Official data collated by Our World in Data, “COVID-19, vaccinations (broken down by manufacturer)” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/985296.metadata.json"
+    },
+    "COVID-19 doses (cumulative) - Manufacturer Medicago": {
+      "titleShort": "Medicago",
+      "titleLong": "Medicago",
+      "descriptionShort": "Total number of Medicago COVID-19 vaccination doses administered.",
+      "descriptionKey": [
+        "During the COVID-19 pandemic, there were various manufacturers providing vaccines. This indicator counts those doses by Medicago.",
+        "Differences in vaccine availability, distribution agreements, and production capacity mean that some manufacturers' vaccines may be more widely used in specific regions.",
+        "Data on doses administered by manufacturer may be incomplete due to varied reporting standards, data sharing agreements, or privacy considerations."
+      ],
+      "unit": "doses",
+      "timespan": "",
+      "type": "Integer",
+      "owidVariableId": 985299,
+      "shortName": "total_vaccinations__vaccine_medicago",
+      "lastUpdated": "2024-08-23",
+      "citationShort": "Official data collated by Our World in Data (2024) – with major processing by Our World in Data",
+      "citationLong": "Official data collated by Our World in Data (2024) – with major processing by Our World in Data. “Medicago” [dataset]. Official data collated by Our World in Data, “COVID-19, vaccinations (broken down by manufacturer)” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/985299.metadata.json"
+    },
+    "COVID-19 doses (cumulative) - Manufacturer Sanofi/GSK": {
+      "titleShort": "Sanofi/GSK",
+      "titleLong": "Sanofi/GSK",
+      "descriptionShort": "Total number of Sanofi/GSK COVID-19 vaccination doses administered.",
+      "descriptionKey": [
+        "During the COVID-19 pandemic, there were various manufacturers providing vaccines. This indicator counts those doses by Sanofi/GSK.",
+        "Differences in vaccine availability, distribution agreements, and production capacity mean that some manufacturers' vaccines may be more widely used in specific regions.",
+        "Data on doses administered by manufacturer may be incomplete due to varied reporting standards, data sharing agreements, or privacy considerations."
+      ],
+      "unit": "doses",
+      "timespan": "",
+      "type": "Integer",
+      "owidVariableId": 985329,
+      "shortName": "total_vaccinations__vaccine_sanofi_gsk",
+      "lastUpdated": "2024-08-23",
+      "citationShort": "Official data collated by Our World in Data (2024) – with major processing by Our World in Data",
+      "citationLong": "Official data collated by Our World in Data (2024) – with major processing by Our World in Data. “Sanofi/GSK” [dataset]. Official data collated by Our World in Data, “COVID-19, vaccinations (broken down by manufacturer)” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/985329.metadata.json"
+    },
+    "COVID-19 doses (cumulative) - Manufacturer SKYCovione": {
+      "titleShort": "SKYCovione",
+      "titleLong": "SKYCovione",
+      "descriptionShort": "Total number of SKYCovione COVID-19 vaccination doses administered.",
+      "descriptionKey": [
+        "During the COVID-19 pandemic, there were various manufacturers providing vaccines. This indicator counts those doses by SKYCovione.",
+        "Differences in vaccine availability, distribution agreements, and production capacity mean that some manufacturers' vaccines may be more widely used in specific regions.",
+        "Data on doses administered by manufacturer may be incomplete due to varied reporting standards, data sharing agreements, or privacy considerations."
+      ],
+      "unit": "doses",
+      "timespan": "",
+      "type": "Integer",
+      "owidVariableId": 985323,
+      "shortName": "total_vaccinations__vaccine_skycovione",
+      "lastUpdated": "2024-08-23",
+      "citationShort": "Official data collated by Our World in Data (2024) – with major processing by Our World in Data",
+      "citationLong": "Official data collated by Our World in Data (2024) – with major processing by Our World in Data. “SKYCovione” [dataset]. Official data collated by Our World in Data, “COVID-19, vaccinations (broken down by manufacturer)” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/985323.metadata.json"
+    },
+    "COVID-19 doses (cumulative) - Manufacturer Valneva": {
+      "titleShort": "Valneva",
+      "titleLong": "Valneva",
+      "descriptionShort": "Total number of Valneva COVID-19 vaccination doses administered.",
+      "descriptionKey": [
+        "During the COVID-19 pandemic, there were various manufacturers providing vaccines. This indicator counts those doses by Valneva.",
+        "Differences in vaccine availability, distribution agreements, and production capacity mean that some manufacturers' vaccines may be more widely used in specific regions.",
+        "Data on doses administered by manufacturer may be incomplete due to varied reporting standards, data sharing agreements, or privacy considerations."
+      ],
+      "unit": "doses",
+      "timespan": "",
+      "type": "Integer",
+      "owidVariableId": 985343,
+      "shortName": "total_vaccinations__vaccine_valneva",
+      "lastUpdated": "2024-08-23",
+      "citationShort": "Official data collated by Our World in Data (2024) – with major processing by Our World in Data",
+      "citationLong": "Official data collated by Our World in Data (2024) – with major processing by Our World in Data. “Valneva” [dataset]. Official data collated by Our World in Data, “COVID-19, vaccinations (broken down by manufacturer)” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/985343.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-05-09",
+  "activeFilters": {}
+}

@@ -1,0 +1,45 @@
+{
+  "chart": {
+    "title": "Cumulative confirmed COVID-19 cases and deaths",
+    "subtitle": "Limited testing and challenges in the attribution of cause of death mean the confirmed case and death counts may not reflect the true counts.",
+    "citation": "World Health Organization (2025)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/cumulative-deaths-and-cases-covid-19?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "World"
+    ]
+  },
+  "columns": {
+    "Total confirmed deaths due to COVID-19": {
+      "titleShort": "Cumulative confirmed deaths",
+      "titleLong": "Cumulative confirmed deaths",
+      "descriptionShort": "Total deaths attributed to COVID-19. Counts can include probable deaths, where reported.",
+      "unit": "deaths",
+      "timespan": "",
+      "type": "Integer",
+      "owidVariableId": 954531,
+      "shortName": "total_deaths",
+      "lastUpdated": "2025-05-08",
+      "nextUpdate": "2025-06-08",
+      "citationShort": "World Health Organization (2025) – processed by Our World in Data",
+      "citationLong": "World Health Organization (2025) – processed by Our World in Data. “Cumulative confirmed deaths” [dataset]. World Health Organization, “COVID-19 Dashboard WHO COVID-19 Dashboard - Daily cases and deaths” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/954531.metadata.json"
+    },
+    "Total confirmed cases of COVID-19": {
+      "titleShort": "Cumulative confirmed cases",
+      "titleLong": "Cumulative confirmed cases",
+      "descriptionShort": "Total confirmed cases of COVID-19. Counts can include probable cases, where reported.",
+      "unit": "cases",
+      "timespan": "",
+      "type": "Integer",
+      "owidVariableId": 954528,
+      "shortName": "total_cases",
+      "lastUpdated": "2025-05-08",
+      "nextUpdate": "2025-06-08",
+      "citationShort": "World Health Organization (2025) – processed by Our World in Data",
+      "citationLong": "World Health Organization (2025) – processed by Our World in Data. “Cumulative confirmed cases” [dataset]. World Health Organization, “COVID-19 Dashboard WHO COVID-19 Dashboard - Daily cases and deaths” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/954528.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-05-09",
+  "activeFilters": {}
+}
